@@ -9,10 +9,6 @@ A React-based investment calculator that helps users visualize their investment 
 - Responsive design that works on desktop and mobile
 - Real-time calculation as you adjust inputs
 
-## Demo
-
-![Investment Calculator Demo](public/investment-calculator-logo.png)
-
 ## Installation
 
 1. Clone the repository:
