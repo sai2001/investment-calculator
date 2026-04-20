@@ -101,18 +101,14 @@ Where:
 - n = Number of years
 - PMT = Annual investment amount
 
-## Contributing
+### Results Display
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+The results are displayed in a clear table format showing the growth of your investment over time:
 
-## License
+| Year | Investment Value | Interest (Year) | Total Interest | Invested Capital |
+| ---- | ---------------- | --------------- | -------------- | ---------------- |
+| 1    | $2,050           | $50             | $50            | $2,000           |
+| 2    | $3,153           | $103            | $153           | $3,000           |
+| 3    | $4,310           | $158            | $310           | $4,000           |
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-
-Created with ❤️ using React and Vite.
+This format makes it easy to see how your investment grows year over year, including the compound interest earned and total capital invested.
